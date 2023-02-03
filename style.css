@@ -1,0 +1,30 @@
+.product-image {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+
+.product-image.enlarged {
+  width: 400px;
+  height: 400px;
+}
+
+.more-details-button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.product-title {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.product-price {
+  font-style: italic;
+  margin-top: 5px;
+}
